@@ -8,7 +8,7 @@ This is the place where I publish opensource stuff and break things 🤣
 
 <img align="centre" width="48%" src="https://github-readme-stats.vercel.app/api?username=prashantdivate&show_icons=true&theme=onedark"/> <img align="centre" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=prashantdivate&count_private=true&theme=radical"/> 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantdivate&show_icons=true&theme=onedark&hide_border=true&layout=compact&langs_count=8"/>
+<img align="centre" height="260em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantdivate&show_icons=true&theme=onedark&hide_border=true&layout=compact&langs_count=8"/>
 
 <h2>🏆 Github Profile Trophies</h2> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=prashantdivate&theme=monokai&row=1&column=8">
   </a>
