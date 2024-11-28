@@ -1,4 +1,4 @@
-## Hello World, I'm Prashant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello World, I'm Prashant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://komarev.com/ghpvc/?username=prashantdivate&abbreviated=true&base=13000)
 
 This is the place where I publish opensource stuff and break things 🤣
 * 🔭 I’m currently working on something cool 😉 
