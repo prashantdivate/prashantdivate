@@ -14,7 +14,6 @@ This is the place where I publish opensource stuff and break things !!<img src="
 href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a> </p>
 
 ---
-<br>
 
 ### Visitor count 
 <img src="https://profile-counter.glitch.me/prashantdivate/count.svg" />
