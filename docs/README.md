@@ -17,6 +17,8 @@ Add a Markdown file under `_posts` named `YYYY-MM-DD-title.md`.
 
 ## Deploy
 
-In the GitHub repository, open **Settings -> Pages**, choose **Deploy from a branch**, select `main`, then select `/docs`.
+In the GitHub repository, open **Settings -> Pages** and set **Source** to **GitHub Actions**.
+
+After that, every push to `main` that changes `docs/**` will build and publish the site automatically.
 
 If you rename this repository to `prashantdivate.github.io`, set `baseurl: ""` in `_config.yml`.

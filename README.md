@@ -8,6 +8,7 @@ The full website lives in [`docs`](docs):
 - Blog posts: `docs/_posts`
 - Project cards: `docs/_data/projects.yml`
 - Futuristic theme and 3D hero: `docs/assets`
+- Deployment workflow: `.github/workflows/pages.yml`
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prashantdivate&label=Profile%20Views&color=0e75b6&style=flat&base=60000" alt="Profile views"/>
