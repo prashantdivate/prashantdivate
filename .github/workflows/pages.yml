@@ -6,7 +6,6 @@ on:
     paths:
       - "docs/**"
       - ".github/workflows/pages.yml"
-  workflow_dispatch:
 
 permissions:
   contents: read
@@ -26,8 +25,6 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
