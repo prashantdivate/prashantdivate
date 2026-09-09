@@ -1,0 +1,15 @@
+- name: Open Source Lab
+  summary: Practical experiments across Linux, automation, cloud tooling, and developer workflows.
+  signal: Public learning system
+  link: https://github.com/prashantdivate
+  stack: Linux, Bash, Python, Docker
+- name: Cloud Field Notes
+  summary: Short explainers and deployment notes for AWS, Azure, GitHub, and real-world DevOps habits.
+  signal: Writing engine
+  link: /blog/
+  stack: AWS, Azure, GitHub
+- name: DevOps Utilities
+  summary: Small scripts, examples, and reproducible workflows that remove friction from operations work.
+  signal: Build queue
+  link: https://github.com/prashantdivate?tab=repositories
+  stack: Python, Shell, Git

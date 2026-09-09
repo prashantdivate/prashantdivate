@@ -1,0 +1,21 @@
+title: Prashant Divate
+description: Futuristic open-source lab, engineering blog, and project notebook by Prashant Divate.
+url: "https://prashantdivate.github.io"
+baseurl: "/prashantdivate"
+author:
+  name: Prashant Divate
+  email: diwateprashant44@gmail.com
+  github: prashantdivate
+  linkedin: prashant-divate
+permalink: /blog/:title/
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: Prashant Divate
