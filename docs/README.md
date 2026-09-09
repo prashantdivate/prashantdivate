@@ -19,6 +19,6 @@ Add a Markdown file under `_posts` named `YYYY-MM-DD-title.md`.
 
 In the GitHub repository, open **Settings -> Pages** and set **Source** to **GitHub Actions**.
 
-After that, every push to `main` that changes `docs/**` will build and publish the site automatically.
+After that, every push to `master` or `main` that changes `docs/**` will build and publish the site automatically.
 
 If you rename this repository to `prashantdivate.github.io`, set `baseurl: ""` in `_config.yml`.

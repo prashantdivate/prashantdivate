@@ -10,6 +10,8 @@ The full website lives in [`docs`](docs):
 - Futuristic theme and 3D hero: `docs/assets`
 - Deployment workflow: `.github/workflows/pages.yml`
 
+The workflow publishes automatically when website files are pushed to `master` or `main`.
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prashantdivate&label=Profile%20Views&color=0e75b6&style=flat&base=60000" alt="Profile views"/>
 </p>
